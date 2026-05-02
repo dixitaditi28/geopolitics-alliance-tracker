@@ -1,0 +1,11 @@
+# Geopolitics Alliance Tracker 🌍
+
+This is my first GitHub project! It is a simple Python script designed to track and display major global alliances and their member states.
+
+## Alliances Tracked
+* BRICS
+* NATO
+* ASEAN
+
+## How to Run
+Simply run `python tracker.py` in your terminal to see the alliances printed out.
